@@ -1,0 +1,4 @@
+author: Joseph Guhlin
+description: Align multiple genomes, interspecies of intraspecies, to a multiple sequence
+  alignment (MAF) file. Also runs putative genomic conservation scoring if desired.
+name: genomealign
